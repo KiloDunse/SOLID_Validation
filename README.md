@@ -1,5 +1,6 @@
 # SOLID_Validation
 Validation, following the SOLID principles
 
-Using SimpleInjector to dynamically load validators
-Test using XUnit
+Using [SimpleInjector](https://github.com/simpleinjector/SimpleInjector) to dynamically load validators
+
+Tests using [xUnit.net](https://xunit.net/)
